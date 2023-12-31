@@ -8,5 +8,5 @@
   
   [My Youtube Channel](https://www.youtube.com/channel/UCgkefxOpsxUJgDafYBHl_Hg)                       ------            [Korox Mod Menu made by me](https://korox.vercel.app)
 
-  [My Discord Server](https://discord.gg/skylerplaysxlogan/)
+  [My Discord Server](https://discord.gg/skylerplaysxlogan/)                                           ------            [Join The Korox Community](https://discord.gg/vXg7v6XQDr)
 </span>
