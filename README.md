@@ -7,5 +7,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogoat35&theme=tokyonight)](https://github.com/gogoat35)
   
   [My Youtube Channel](https://www.youtube.com/channel/UCgkefxOpsxUJgDafYBHl_Hg)
-  
+
+  [My Discord Server](https://discord.gg/skylerplaysxlogan/)
 </span>
